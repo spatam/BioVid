@@ -22,7 +22,7 @@ Total Videos: 650 videos.
 
 Participants: 43 users.
 
-Videos per User: Each participant recorded 13 videos.
+Videos per User: Each participant recorded 13 videos, 20 partecipants recorded 26 videos.
 
 Word Repetitions: Each participant repeated their password word 5 times, followed by 8 additional unique words.
 
