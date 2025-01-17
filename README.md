@@ -60,11 +60,7 @@ This variability in distance helps simulate real-world recording conditions, ens
 
 # Word Statistics
 
-Average Word Length: 5.51 syllables.
-
-Shortest Word: 3 syllables.
-
-Longest Word: 13 syllables.
+The average length of the words in the dataset is 5.51 characters. The shortest word is composed of 3 characters, while the longest word is composed of 13 characters.
 
 # Applications
 
