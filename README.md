@@ -19,12 +19,19 @@ This labeling scheme ensures straightforward identification of both the video co
 Resolution: All videos were recorded at a resolution of 1080 x 1920 pixels using front-facing cameras.
 
 Number of users: 43
+
 Number of videos: 650
+
 Number of words: 90
+
 Number of videos with wrong password: 400
+
 Number of videos with right password: 250
+
 Number of different distances for recording: 5
+
 Number of locations for recording: 21
+
 Number of different smartphones for recording: 14
 
 Video Cropping: Each video is pre-cropped to show only the mouth region.
@@ -40,7 +47,9 @@ Recording Environment: Videos were recorded in a controlled environment measurin
 Noise Levels: Noise levels were measured during three separate recording sessions:
 
 Session 1: 18 dB
+
 Session 2: 19 dB
+
 Session 3: 17.5 dB
 
 Noise levels were measured using the Fonometro (Sound Meter) app.
