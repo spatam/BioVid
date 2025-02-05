@@ -1,0 +1,4130 @@
+{
+    "dataset_name": "Biovid",
+    "version": "1.0",
+    "description": "A biometric dataset containing audiovisual recordings for research.",
+    "users": {
+        "AlessandroQ": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.93,
+                    "duration": 1.9378549949883062
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.93,
+                    "duration": 1.8710324089542265
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.93,
+                    "duration": 1.8710324089542265
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.94,
+                    "duration": 1.9038076152304608
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.94,
+                    "duration": 1.7702070808283232
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.93,
+                    "duration": 2.0380888740394254
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.93,
+                    "duration": 1.8376211159371867
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.94,
+                    "duration": 1.9706078824315296
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.93,
+                    "duration": 1.8376211159371867
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.93,
+                    "duration": 1.8376211159371867
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.93,
+                    "duration": 1.9378549949883062
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.93,
+                    "duration": 2.338790511192783
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.93,
+                    "duration": 2.2719679251587035
+                }
+            ]
+        },
+        "Andrea": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.4707846410684473
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.9031719532554257
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.1702838063439067
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8697829716193657
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5692821368948247
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.669449081803005
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.94,
+                    "duration": 1.8704074816299265
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.302170283806344
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5025041736227045
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7696160267111853
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.003338898163606
+                }
+            ]
+        },
+        "Cantarella": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.6026711185308848
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5025041736227045
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5025041736227045
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.2687813021702838
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.302170283806344
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5025041736227045
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.302170283806344
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.2020033388981637
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4691151919866445
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.3689482470784642
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.2020033388981637
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.302170283806344
+                }
+            ]
+        },
+        "Albert": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8030050083472455
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.003338898163606
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4691151919866445
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.8714524207011687
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.53,
+                    "duration": 1.4222824246528953
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.54,
+                    "duration": 1.8618821936357481
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.969949916527546
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.5375626043405677
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.5375626043405677
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.370617696160267
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 3.27212020033389
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7696160267111853
+                }
+            ]
+        },
+        "Alex": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.8
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.9333333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.433333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 0.9
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.8333333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.59,
+                    "duration": 2.0615072659682325
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.1333333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.6
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.2
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.033333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.433333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.4
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.7333333333333334
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8697829716193657
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.969949916527546
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.1702838063439067
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.1018363939899833
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.36,
+                    "duration": 1.021798365122616
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5025041736227045
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5692821368948247
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.302170283806344
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4691151919866445
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                }
+            ]
+        },
+        "AndreaG": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.3333333333333335
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.3333333333333335
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.9
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.3
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.2
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.9333333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.9333333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.1333333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.5
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.1
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.4
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.033333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.6
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.1686143572621035
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5692821368948247
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.3689482470784642
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8030050083472455
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.302170283806344
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5025041736227045
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5692821368948247
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.669449081803005
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.6026711185308848
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                }
+            ]
+        },
+        "Adriano": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.1702838063439067
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.9031719532554257
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8030050083472455
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.669449081803005
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.969949916527546
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.669449081803005
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.3689482470784642
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8697829716193657
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.9031719532554257
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.969949916527546
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8697829716193657
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.9031719532554257
+                }
+            ]
+        },
+        "Alessandra": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.0333333333333334
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.3
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 0.8
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.3
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.1
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.6333333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.7
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.7
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.1333333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.9333333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.6333333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.2
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.9
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.0684474123539232
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.1018363939899833
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.1018363939899833
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.302170283806344
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4691151919866445
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.2020033388981637
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.2020033388981637
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.2020033388981637
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5025041736227045
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.1018363939899833
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.3689482470784642
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.2687813021702838
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.2020033388981637
+                }
+            ]
+        },
+        "AlessandroS": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.99,
+                    "duration": 2.2007335778592867
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.58,
+                    "duration": 1.8593644354293442
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.88,
+                    "duration": 1.7737617135207497
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.97,
+                    "duration": 1.7684351017684352
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.89,
+                    "duration": 1.5724322515891602
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 0.5333333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.54,
+                    "duration": 1.7603249830737984
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.09,
+                    "duration": 0.6531454107940873
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.61,
+                    "duration": 0.5403579871664979
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.11,
+                    "duration": 1.6489178976296806
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.54,
+                    "duration": 0.8124576844955992
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.0
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.55,
+                    "duration": 0.9813874788494078
+                }
+            ]
+        },
+        "Carlo": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.03,
+                    "duration": 1.9314019314019313
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.03,
+                    "duration": 2.0313020313020314
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.03,
+                    "duration": 2.131202131202131
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.65,
+                    "duration": 2.5632377740303545
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.02,
+                    "duration": 2.3317788141239175
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.02,
+                    "duration": 2.2984676882078614
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.03,
+                    "duration": 2.2977022977022976
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.03,
+                    "duration": 2.3976023976023977
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.03,
+                    "duration": 2.5974025974025974
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.02,
+                    "duration": 2.2984676882078614
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.66,
+                    "duration": 2.3600809170600137
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.03,
+                    "duration": 2.131202131202131
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.03,
+                    "duration": 2.4309024309024307
+                }
+            ]
+        },
+        "Gabriele": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 25.8,
+                    "duration": 1.4728682170542635
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 28.15,
+                    "duration": 1.9538188277087034
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 27.11,
+                    "duration": 2.434526005164146
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 27.45,
+                    "duration": 2.73224043715847
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 26.18,
+                    "duration": 2.8647822765469826
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 24.82,
+                    "duration": 2.054794520547945
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 27.79,
+                    "duration": 1.1155091759625766
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 26.87,
+                    "duration": 1.8608113137327875
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 27.39,
+                    "duration": 1.9715224534501643
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 25.35,
+                    "duration": 2.485207100591716
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.31,
+                    "duration": 2.1494370522006143
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 24.35,
+                    "duration": 1.9301848049281314
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 24.61,
+                    "duration": 1.8691588785046729
+                }
+            ]
+        },
+        "FrancescoG": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.89,
+                    "duration": 1.17096018735363
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.64,
+                    "duration": 1.3832658569500675
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.79,
+                    "duration": 1.5105740181268883
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.75,
+                    "duration": 1.7478991596638656
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.84,
+                    "duration": 1.5415549597855227
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.4,
+                    "duration": 0.9523809523809524
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.29,
+                    "duration": 1.7412086036189827
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 28.49,
+                    "duration": 1.333801333801334
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.35,
+                    "duration": 1.6695059625212947
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.01,
+                    "duration": 1.9303688383316098
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.49,
+                    "duration": 1.8311291963377416
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.66,
+                    "duration": 1.1800404585300068
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.43,
+                    "duration": 2.140672782874618
+                }
+            ]
+        },
+        "Fabio": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.303839732888147
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.1702838063439067
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.003338898163606
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.1702838063439067
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.5375626043405677
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8030050083472455
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.9031719532554257
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.9031719532554257
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.9031719532554257
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.303839732888147
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.0701168614357264
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.9031719532554257
+                }
+            ]
+        },
+        "Ernesto": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.7
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.0
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.2333333333333334
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.2
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.0
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.1333333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.3
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.3333333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.2
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.2
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.0
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.1
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.2333333333333334
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.302170283806344
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8030050083472455
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4691151919866445
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.6026711185308848
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.302170283806344
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.2687813021702838
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5692821368948247
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.9031719532554257
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8030050083472455
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.9031719532554257
+                }
+            ]
+        },
+        "Francesca": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.2687813021702838
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.3689482470784642
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.6026711185308848
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5025041736227045
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5692821368948247
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.3689482470784642
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5025041736227045
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.3689482470784642
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5025041736227045
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.2020033388981637
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.2687813021702838
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.3689482470784642
+                }
+            ]
+        },
+        "Cristian": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 3.1385642737896493
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.370617696160267
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.1702838063439067
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.94,
+                    "duration": 2.171008684034736
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.1702838063439067
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.0701168614357264
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.2036727879799667
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.003338898163606
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.1035058430717863
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.0701168614357264
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.0701168614357264
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.003338898163606
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.003338898163606
+                }
+            ]
+        },
+        "Emilio": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.97,
+                    "duration": 2.1021021021021022
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.5,
+                    "duration": 1.8305084745762712
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.85,
+                    "duration": 2.0435510887772192
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.97,
+                    "duration": 1.0677344010677345
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.76,
+                    "duration": 1.6801075268817203
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.69,
+                    "duration": 2.121926574604244
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.84,
+                    "duration": 2.0107238605898123
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.97,
+                    "duration": 1.9686353019686353
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.48,
+                    "duration": 2.1709633649932156
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.97,
+                    "duration": 2.2022022022022023
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.96,
+                    "duration": 2.1695594125500666
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.73,
+                    "duration": 1.8836192398250924
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.94,
+                    "duration": 2.271209084836339
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.4707846410684473
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.5375626043405677
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.4707846410684473
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.1702838063439067
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.2036727879799667
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.270450751252087
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.370617696160267
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.8380634390651087
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.637729549248748
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.4707846410684473
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.4707846410684473
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.671118530884808
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.4707846410684473
+                }
+            ]
+        },
+        "GabrieleG": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.01,
+                    "duration": 2.132622459180273
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.01,
+                    "duration": 2.299233588803732
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.01,
+                    "duration": 1.9326891036321225
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.01,
+                    "duration": 2.0326557814061976
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.01,
+                    "duration": 1.8327224258580472
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.01,
+                    "duration": 2.0993002332555815
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.01,
+                    "duration": 2.1992669110296568
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.01,
+                    "duration": 2.3325558147284235
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.01,
+                    "duration": 1.732755748083972
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.01,
+                    "duration": 1.2329223592135954
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.01,
+                    "duration": 2.3325558147284235
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.01,
+                    "duration": 2.2325891369543482
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.01,
+                    "duration": 2.2325891369543482
+                }
+            ]
+        },
+        "Edoardo": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.2020033388981637
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.302170283806344
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.1018363939899833
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4691151919866445
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5025041736227045
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.669449081803005
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5025041736227045
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.6026711185308848
+                }
+            ]
+        },
+        "Davide": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.302170283806344
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4691151919866445
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.3689482470784642
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.302170283806344
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.2020033388981637
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7696160267111853
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.669449081803005
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5692821368948247
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.6026711185308848
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.6026711185308848
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.302170283806344
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.001669449081803
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                }
+            ]
+        },
+        "LorenzoC": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.03,
+                    "duration": 1.0323010323010322
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.03,
+                    "duration": 1.4319014319014318
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.03,
+                    "duration": 0.9990009990009989
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.02,
+                    "duration": 0.899400399733511
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.03,
+                    "duration": 1.2987012987012987
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.03,
+                    "duration": 1.898101898101898
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.03,
+                    "duration": 1.4985014985014984
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.03,
+                    "duration": 1.0323010323010322
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.03,
+                    "duration": 0.9990009990009989
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.03,
+                    "duration": 0.9324009324009324
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.03,
+                    "duration": 1.0323010323010322
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.91,
+                    "duration": 1.7719826145101973
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.94,
+                    "duration": 1.3026052104208417
+                }
+            ]
+        },
+        "MatteoM": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.61,
+                    "duration": 1.2833502195204323
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.61,
+                    "duration": 1.7223910840932117
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.61,
+                    "duration": 1.452212090509963
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.01,
+                    "duration": 1.732755748083972
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.61,
+                    "duration": 1.7223910840932117
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.61,
+                    "duration": 1.2495778453225261
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.61,
+                    "duration": 0.9118541033434651
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.61,
+                    "duration": 1.9925700776764608
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.01,
+                    "duration": 2.0326557814061976
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.61,
+                    "duration": 1.789935832489024
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.01,
+                    "duration": 2.132622459180273
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.01,
+                    "duration": 2.0326557814061976
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.01,
+                    "duration": 1.8327224258580472
+                }
+            ]
+        },
+        "Iris": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 60.0,
+                    "duration": 2.3333333333333335
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 60.0,
+                    "duration": 1.45
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 60.0,
+                    "duration": 2.283333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 60.0,
+                    "duration": 2.0
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 60.0,
+                    "duration": 1.95
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 60.0,
+                    "duration": 1.6833333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 60.0,
+                    "duration": 1.15
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 60.0,
+                    "duration": 1.8333333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 60.0,
+                    "duration": 1.9
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 60.0,
+                    "duration": 1.9833333333333334
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 60.0,
+                    "duration": 2.5
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 60.0,
+                    "duration": 2.45
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 60.0,
+                    "duration": 2.5
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5025041736227045
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8030050083472455
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8030050083472455
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.669449081803005
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.6026711185308848
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7696160267111853
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.9031719532554257
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5025041736227045
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.6026711185308848
+                }
+            ]
+        },
+        "Luca": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.1018363939899833
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.6026711185308848
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.2020033388981637
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.2020033388981637
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.2687813021702838
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 0.9015025041736228
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.2020033388981637
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.302170283806344
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.3689482470784642
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.302170283806344
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.96,
+                    "duration": 1.5020026702269693
+                }
+            ]
+        },
+        "Lorenzo": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.12,
+                    "duration": 1.1332417582417582
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.5333333333333334
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.67,
+                    "duration": 1.4492753623188406
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.92,
+                    "duration": 1.2032085561497325
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.72,
+                    "duration": 1.7833109017496636
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.33,
+                    "duration": 1.2615069894306172
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.35,
+                    "duration": 1.4991482112436114
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.68,
+                    "duration": 1.650943396226415
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.43,
+                    "duration": 1.8008834522595991
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.7,
+                    "duration": 1.6498316498316499
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.42,
+                    "duration": 1.8014955812372535
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.7333333333333334
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.48,
+                    "duration": 1.9335142469470827
+                }
+            ]
+        },
+        "Mattia": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.370617696160267
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.4707846410684473
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.4707846410684473
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.938230383973289
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.5709515859766277
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.2036727879799667
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.1702838063439067
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8697829716193657
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.303839732888147
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.270450751252087
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.2036727879799667
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.2036727879799667
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.1702838063439067
+                }
+            ]
+        },
+        "Mansueto": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7696160267111853
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8030050083472455
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.9031719532554257
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.6026711185308848
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5692821368948247
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.6026711185308848
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8697829716193657
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8030050083472455
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7696160267111853
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8030050083472455
+                }
+            ]
+        },
+        "GiuseppeV": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.1
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.5
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.9
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.6333333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.0
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.1
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.2
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.0
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.033333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.3333333333333335
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.433333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.2333333333333334
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.2333333333333334
+                }
+            ]
+        },
+        "MattiaC": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 24.63,
+                    "duration": 1.7864393016646367
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 24.63,
+                    "duration": 1.8270401948842876
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 24.63,
+                    "duration": 1.5834348355663825
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 24.63,
+                    "duration": 1.7458384084449858
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 24.63,
+                    "duration": 2.0300446609825418
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 24.63,
+                    "duration": 1.705237515225335
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 24.63,
+                    "duration": 1.8270401948842876
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 24.63,
+                    "duration": 1.94884287454324
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 24.63,
+                    "duration": 1.8676410881039383
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 24.63,
+                    "duration": 1.9082419813235891
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 24.63,
+                    "duration": 1.7864393016646367
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 24.63,
+                    "duration": 1.6646366220056843
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 24.63,
+                    "duration": 1.7864393016646367
+                }
+            ]
+        },
+        "Jacopo": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.4373956594323873
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.2036727879799667
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8697829716193657
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.370617696160267
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.370617696160267
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.4373956594323873
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.4373956594323873
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.69,
+                    "duration": 1.953519703603907
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.671118530884808
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.671118530884808
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.370617696160267
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.671118530884808
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.7378964941569284
+                }
+            ]
+        },
+        "Siria": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.6026711185308848
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5025041736227045
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.6026711185308848
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5025041736227045
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5692821368948247
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4691151919866445
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.302170283806344
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5025041736227045
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.3689482470784642
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.1686143572621035
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                }
+            ]
+        },
+        "SimoneM": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 60.0,
+                    "duration": 2.183333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 60.0,
+                    "duration": 1.9833333333333334
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 60.0,
+                    "duration": 1.8333333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 60.0,
+                    "duration": 1.4833333333333334
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 60.0,
+                    "duration": 2.05
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 60.0,
+                    "duration": 2.2333333333333334
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 60.0,
+                    "duration": 2.1333333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 60.0,
+                    "duration": 1.9833333333333334
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 60.0,
+                    "duration": 1.8
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 60.0,
+                    "duration": 1.5833333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 60.0,
+                    "duration": 1.9333333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 60.0,
+                    "duration": 2.1333333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 60.0,
+                    "duration": 1.8833333333333333
+                }
+            ]
+        },
+        "Solenne": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.6026711185308848
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8697829716193657
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8030050083472455
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.94,
+                    "duration": 1.9706078824315296
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.9031719532554257
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.0701168614357264
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.969949916527546
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.003338898163606
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7696160267111853
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.969949916527546
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.9031719532554257
+                }
+            ]
+        },
+        "Sophia": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.6026711185308848
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5025041736227045
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.0701168614357264
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.1035058430717863
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.6026711185308848
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5692821368948247
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.9031719532554257
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.003338898163606
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8697829716193657
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.969949916527546
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5692821368948247
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.0701168614357264
+                }
+            ]
+        },
+        "Sabrina": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.302170283806344
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.302170283806344
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.1686143572621035
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.2020033388981637
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.001669449081803
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5025041736227045
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7696160267111853
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.302170283806344
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5025041736227045
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.1018363939899833
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.302170283806344
+                }
+            ]
+        },
+        "SiriaI": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.1018363939899833
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5692821368948247
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.302170283806344
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.2020033388981637
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5025041736227045
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5025041736227045
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4691151919866445
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7696160267111853
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                }
+            ]
+        },
+        "Paolo": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.033333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.033333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.4
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.8333333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.9333333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.6
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.6333333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.1
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.1
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.1333333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.033333333333333
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 2.1
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.0,
+                    "duration": 1.9333333333333333
+                }
+            ]
+        },
+        "SimoneO": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.302170283806344
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.2020033388981637
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.302170283806344
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4691151919866445
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.302170283806344
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.6026711185308848
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.2020033388981637
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8030050083472455
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4691151919866445
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5025041736227045
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4691151919866445
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                }
+            ]
+        },
+        "Rachele": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.61,
+                    "duration": 1.3508949679162445
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.86,
+                    "duration": 1.5405224380442064
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.74,
+                    "duration": 2.723604572965703
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.25,
+                    "duration": 2.1487603305785123
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.82,
+                    "duration": 1.0731052984574112
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.23,
+                    "duration": 1.7532252729077076
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.94,
+                    "duration": 1.9038076152304608
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.56,
+                    "duration": 0.9810554803788905
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.97,
+                    "duration": 2.3023023023023024
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.96,
+                    "duration": 1.5020026702269693
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.11,
+                    "duration": 1.959481899701096
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.97,
+                    "duration": 1.901901901901902
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 30.03,
+                    "duration": 1.4319014319014318
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.6026711185308848
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.6026711185308848
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5692821368948247
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.669449081803005
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.3689482470784642
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5692821368948247
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.669449081803005
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.9031719532554257
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.6026711185308848
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.302170283806344
+                }
+            ]
+        },
+        "Simone": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.0701168614357264
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.9031719532554257
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.9031719532554257
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8030050083472455
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.9031719532554257
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8697829716193657
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.9031719532554257
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.1702838063439067
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.969949916527546
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8030050083472455
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8030050083472455
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8030050083472455
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                }
+            ]
+        },
+        "Vincenzo": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.303839732888147
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.303839732888147
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.0701168614357264
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.1702838063439067
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.270450751252087
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.4707846410684473
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.303839732888147
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.2036727879799667
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8030050083472455
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.0701168614357264
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.88,
+                    "duration": 1.9410977242302545
+                }
+            ]
+        },
+        "StefanoM": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.969949916527546
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.9031719532554257
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.9031719532554257
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.003338898163606
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7696160267111853
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.6026711185308848
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8697829716193657
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.302170283806344
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.9031719532554257
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.4023372287145242
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.6026711185308848
+                }
+            ]
+        },
+        "Stefano": {
+            "audio": [],
+            "video": [
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.370617696160267
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 2.270450751252087
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8697829716193657
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8697829716193657
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8030050083472455
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8030050083472455
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.969949916527546
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7696160267111853
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.8697829716193657
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.9031719532554257
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.7028380634390652
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.5025041736227045
+                },
+                {
+                    "format": "MP4",
+                    "resolution": "256x128",
+                    "frame_rate": 29.95,
+                    "duration": 1.6026711185308848
+                }
+            ]
+        }
+    },
+    "participants": {
+        "total": 43,
+        "age_range": "18-25",
+        "gender_distribution": {
+          "male": 34,
+          "female": 9
+        }
+    }    
+}
