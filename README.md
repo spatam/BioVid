@@ -3,6 +3,7 @@ BioVid Dataset on MultiModal user authentication
 BioVid Dataset
 
 Welcome to the official repository for the BioVid dataset, a comprehensive video dataset designed for speaker identification and multimodal deep learning research.
+To request the dataset send an email to: biometric.dataset.25@gmail.com
 
 # Dataset Overview
 
