@@ -77,7 +77,7 @@ Robustness Testing under Varying Conditions
 
 # Citation
 
-If you use the BioVid dataset in your research, please provide proper citation.
+If you use the BioVid dataset in your research, please provide proper citation: Massimo Orazio Spata, Alessandro Ortis, Sebastiano Battiato, CNNMC: A Convolutional Neural Network with Monte Carlo Dropout for Speaker Recognition, 25 May 2025, PREPRINT (Version 1) available at Research Square, https://doi.org/10.21203/rs.3.rs-6570040/v1
 
 # Acknowledgments
 
